@@ -22,6 +22,8 @@
   },
   "devDependencies": {
     "@babel/runtime": "7.13.8",
+    "@types/react": "^18.2.72",
+    "@types/react-dom": "^18.2.22",
     "react-refresh": "^0.14.0",
     "typescript": "4.1.3"
   },
